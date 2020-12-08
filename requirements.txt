@@ -1,0 +1,12 @@
+# 框架
+Flask==1.1.2
+# env配置识别
+python-dotenv==0.14.0 
+# mysql数据库扩展 
+pymysql==0.10.1
+# ORM
+Flask-SQLAlchemy==2.4.4
+# 数据库迁移
+flask-migrate==2.5.3
+# 序列化与反序列化数据
+marshmallow==3.8.0
